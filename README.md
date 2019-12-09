@@ -1,6 +1,6 @@
-# Revamped Version -> https://github.com/Jnnshschl/AmeisenBotRevamped
-
 # AmeisenBot - WoW 3.3.5a Bot 
+
+⚠️⚠️⚠️ This Project is deprecated, this is the rewrite of it >> https://github.com/Jnnshschl/AmeisenBotX ⚠️⚠️⚠️
 
 A bot written in (at this time) C# only for World of Warcraft WotLK (3.3.5a 12340) (the best WoW :P).
 This project will be developed like "Kraut und Rüben" (Herb and beet?) as we say here in Germany, its a synonym for messy, so deal with it 😎.
